@@ -1,7 +1,5 @@
-_/
-_cache/
-_site/
-_*.markdown
-_*.md
-_*.textile
-.DS_Store
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+vendor
